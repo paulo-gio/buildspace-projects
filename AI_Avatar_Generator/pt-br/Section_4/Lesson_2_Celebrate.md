@@ -1,6 +1,7 @@
 ### Indo além do localhost!
 
 **O que você aprendeu**
+
 Quando você segue um guia de projeto e não faz tudo do zero, pode ser fácil esquecer ou negligenciar o que aprendeu. Aqui está uma lista de todas as tecnologias incríveis que você aprendeu a usar neste projeto:
 
 1. Dreamstudio
